@@ -1,12 +1,9 @@
-### 个人信息
-#### 姓名
-#### 学历
-#### 学校
-#### 邮箱
-#### 地址
+### Jiakun Chen
+#### Guilin University Of Electronic Technology（M.S)
+#### email:jiakunchen@126.com
 
-### 研究方向
-- 半监督学习
-- 行为识别
+### research interests
+- Semi-supervised learning
+- Action Recognition
 
-# 项目研究
+# Projects
