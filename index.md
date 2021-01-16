@@ -6,7 +6,6 @@
       <p><b>E-mail：jiakunchen@126.com</b></p>
     </td>
     <td width="25%">
-      <img src="/image.jpg" width="100%">
     </td>
   </tr>
 </table>
