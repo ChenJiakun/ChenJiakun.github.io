@@ -1,9 +1,9 @@
-### Jiakun Chen
-#### Guilin University Of Electronic Technology（M.S)
-#### email:jiakunchen@126.com
+## Jiakun Chen
+### Guilin University of Electronic Technology（M.S)
+### Email:jiakunchen@126.com
 
-### research interests
+## Research Interests
 - Semi-supervised learning
 - Action Recognition
 
-# Projects
+## Projects
