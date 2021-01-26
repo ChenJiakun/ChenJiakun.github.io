@@ -15,3 +15,5 @@
 - Action Recognition
 
 ## Projects
+- GSSL
+https://github.com/chenjiakun/GSSL
