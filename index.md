@@ -16,5 +16,5 @@
 
 ## Projects
 - GSSL
-<a href="https://github.com/chenjiakun/GSSL">英文版</a>
+<a href="https://github.com/chenjiakun/GSSL">[code]</a>
 
